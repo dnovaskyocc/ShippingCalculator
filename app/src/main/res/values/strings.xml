@@ -5,4 +5,5 @@
     <string name="added_cost_text">Added Cost:</string>
     <string name="total_cost_text">Total Shipping-Cost:</string>
     <string name="input_hint_text">(weight in ounces)</string>
+    <string name="zero_dollars">$0.00</string>
 </resources>
